@@ -1,3 +1,12 @@
+/**
+*
+* Reads in scores until a negative value is encountered, at which point it determines and prints the average
+*Alexander Ferragamo>
+* @version <October 14>
+*
+*/
+
+
 import java.util.Scanner;
 
 public class Averager{
